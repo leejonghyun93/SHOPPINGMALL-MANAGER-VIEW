@@ -24,7 +24,7 @@ header {
 
 .logo {
   display: block;
-  margin: 0 auto 2rem;
+  margin: 1 auto 2rem;
 }
 
 @media (min-width: 1024px) {
