@@ -10,3 +10,6 @@ import 'bootstrap-icons/font/bootstrap-icons.css'
 const app = createApp(App)
 app.use(router)
 app.mount('#app')
+
+createApp(App).mount('#app')
+/////////////안녕안녕
